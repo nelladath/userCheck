@@ -6,3 +6,5 @@
    4 get-help Copy-Item -Examples
    5 get-help new-psdrive -Examples
    6 get-help new-psdrive
+
+#testing the git
