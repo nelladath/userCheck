@@ -1,0 +1,8 @@
+ Id CommandLine
+  -- -----------
+   1 get-command *copy*
+   2 get-help about_copy-item
+   3 get-help Copy-item
+   4 get-help Copy-Item -Examples
+   5 get-help new-psdrive -Examples
+   6 get-help new-psdrive
