@@ -1,4 +1,4 @@
-﻿$domains = @("corp", "csgiutil", "prod")
+﻿$domains = @("domain1", "domain2", "domain3")
 
 $allcreds = foreach ($Domain in $domains)
 {
